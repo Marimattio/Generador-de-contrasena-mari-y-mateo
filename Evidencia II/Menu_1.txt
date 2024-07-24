@@ -1,0 +1,2 @@
+Ingrese la longitud de la contraseña: 6
+La longitud de la contraseña debe ser al menos 8 caracteres.
