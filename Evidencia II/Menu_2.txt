@@ -1,0 +1,2 @@
+Ingrese la longitud de la contraseña: 10
+Tu contraseña segura es: pB&@-4"R/k
