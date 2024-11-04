@@ -1,2 +1,4 @@
-Ingrese la longitud de la contraseña: 10
-Tu contraseña segura es: pB&@-4"R/k
+Introduce tu nombre de usuario: Nieves 
+Introduce la longitud de la contraseña: 5
+
+La longitud de la contraseña debe ser al menos 8 caracteres.
