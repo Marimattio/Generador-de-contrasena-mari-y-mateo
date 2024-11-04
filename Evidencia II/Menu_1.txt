@@ -1,2 +1,5 @@
-Ingrese la longitud de la contraseña: 6
-La longitud de la contraseña debe ser al menos 8 caracteres.
+Introduce tu nombre de usuario: Nieves
+Introduce la longitud de la contraseña: 10
+
+Usuario: Nieves
+Tu contraseña generada es: )MWv{*Bn$Q
